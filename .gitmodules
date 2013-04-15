@@ -1,0 +1,3 @@
+[submodule "libs-sources/VitamioBundle"]
+	path = libs-sources/VitamioBundle
+	url = git://github.com/yixia/VitamioBundle.git
